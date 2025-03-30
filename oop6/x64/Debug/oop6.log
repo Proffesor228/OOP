@@ -1,0 +1,5 @@
+﻿  oop6.cpp
+C:\Users\PC\source\repos\oop5\oop6\oop6.cpp(107,10): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\oop5\oop6\oop6.cpp(111,10): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+C:\Users\PC\source\repos\oop5\oop6\oop6.cpp(152,10): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  oop6.vcxproj -> C:\Users\PC\source\repos\oop5\x64\Debug\oop6.exe
